@@ -127,4 +127,4 @@ Authoritative source(s) for **COBIT 2019**. Always validate control references, 
 
 This repository is for informational and planning purposes. It is **not** legal, regulatory, audit, or certification advice, and it is **not** a COBIT 2019 attestation. Validate all control references against the current official COBIT 2019 text ([official source](https://www.isaca.org/resources/cobit)), your environment, and your qualified assessor. Replace any bracketed fields before customer delivery.
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*

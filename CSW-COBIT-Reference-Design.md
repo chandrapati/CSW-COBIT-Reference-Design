@@ -48,7 +48,7 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 **Console areas:** Investigate (inventory, flows, vulns) · Defend/Segmentation (policy) · Manage (agents) · Platform (connectors) · Administration (audit log)
 
-**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/about-csw.md) (platform intro)
+**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/about-csw.md) (platform intro)
 
 ---
 
@@ -473,12 +473,12 @@ Many enterprises map COBIT to ISO/IEC 27001 or NIST SP 800-53. CSW technical evi
 
 ## Appendix B — Related Frameworks
 
-- [NIST SP 800-53 Rev 5](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) — detailed security control language often used alongside COBIT in regulated enterprises.
-- [ISO/IEC 27001:2022](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md) — ISMS audits frequently pair with COBIT governance reviews.
-- [NIST SP 800-207](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-207/CSW-NIST-800-207-Technical-Runbook.md) — zero trust architecture patterns underpinning segmentation evidence for **DSS05.02**.
+- [NIST SP 800-53 Rev 5](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) — detailed security control language often used alongside COBIT in regulated enterprises.
+- [ISO/IEC 27001:2022](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md) — ISMS audits frequently pair with COBIT governance reviews.
+- [NIST SP 800-207](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-207/CSW-NIST-800-207-Technical-Runbook.md) — zero trust architecture patterns underpinning segmentation evidence for **DSS05.02**.
 
 
-- [UK NCSC CAF v3.2](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/UK-NCSC-CAF/caf-mapping.md) — APO13 is the reuse path for CAF A1 governance telemetry.
+- [UK NCSC CAF v3.2](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/UK-NCSC-CAF/caf-mapping.md) — APO13 is the reuse path for CAF A1 governance telemetry.
 
 ---
 
@@ -494,4 +494,4 @@ Many enterprises map COBIT to ISO/IEC 27001 or NIST SP 800-53. CSW technical evi
 
 ---
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
